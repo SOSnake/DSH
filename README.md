@@ -9,6 +9,7 @@ It's Creative Commons so if you could please paste this when you use this progra
 .dspreset created using DSH by SO_Snake: https://github.com/SOSnake/DSH/
 `
 
+You can always contact me via my Discord: `Snake#0049`
 
 If you are having trouble opening this file you might need to:
 `Install Python: https://www.python.org/downloads/`
