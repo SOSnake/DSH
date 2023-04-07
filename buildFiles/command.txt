@@ -1,0 +1,1 @@
+pyinstaller.exe --icon=DSH.ico -F --noconsole DSHgui.py
